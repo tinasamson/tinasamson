@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there, I am Tina Brigitte Samson 👋 
+#### welcome to my github profile
+- QA automation engineer, former python backend developer
+- ⚡ I am really into automation: cypress, selenium, playwright, JMeter & Blazemeter
+- 📫 How to reach me: tinab.samson@gmail.com
+- 💞️ Hobbies: crochet, amigurumis and fashion designer <3
+
+### TestOps Lab
+- **YouTube Channel**: [TestOps Lab on YouTube](https://www.youtube.com/@testOpsLab)
+- **Repository**: [QA automation repo](https://github.com/tinasamson/QAautomation)
 
 <!--
 **tinasamson/tinasamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
